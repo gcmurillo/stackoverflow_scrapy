@@ -59,9 +59,18 @@ class StackOverFlow(Spider):
                 print('Respuestas: ' + respuestas_extract[i])
                 print('\n')
                 i += 1
-
         else:
+            tab = str(response).split('=')[-1].strip('>')
             tema_extract = response.xpath('//a[@class="question-hyperlink"]/text()').extract()
+            votos_extract = response.xpath('//div[@class="votes"]//span/text()').extract()
+            vistas_extract = response.xpath('//div[@class="views"]//span/text()').extract()
+            respuestas_extract = response.xpath('//div[contains(@class, "status")]//span/text()').extract()
             i = 0
             while i < len(tema_extract):
+                print(tab)
                 print('Tema: ' + tema_extract[i])
+                print('Votos: ' + votos_extract[i])
+                print('Vistas: ' + vistas_extract[i])
+                print('Respuestas: ' + respuestas_extract[i])
+                print('\n')
+                i+=1
