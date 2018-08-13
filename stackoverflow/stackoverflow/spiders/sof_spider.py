@@ -87,7 +87,7 @@ class StackOverFlow(Spider):
                 print('Vistas: ' + vistas_extract[i])
                 print('Respuestas: ' + respuestas_extract[i])
                 print('\n')'''
-                cadena = tab + ",\"" + tema_extract[i] + ",\"" + votos_extract[i] + "," + vistas_extract[i] + "," + respuestas_extract[i] + '\n'
+                cadena = tab + ",\"" + tema_extract[i] + "\"," + votos_extract[i] + "," + vistas_extract[i] + "," + respuestas_extract[i] + '\n'
                 print(cadena)
                 file.write(cadena)
                 i+=1
