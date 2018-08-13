@@ -1,18 +1,20 @@
-tab/language,votes,views,answers
+tab/language,question,votes,views,answers
+active,"Forma correcta de ocultar un <input> en HTML usando javascript,"0,3,1
+active,"¿Cómo puedo convertir un arreglo JSON en una List <T>?,"4,43,3
+active,"Mostrar input segun privilegios,"0,7,1
 active,"animar cambios encontrados en resultado de ajax angularjs,"0,2,0
 active,"¿@foreach en laravel que vaya de 2 objetos en 2 objetos?,"0,29,1
 active,"Fondo que ocupe el ancho y alto de la pantalla,"0,583,4
-active,"Mostrar input segun privilegios,"0,7,0
 active,"¿Cómo recuperar registros de una API rest con Angular 4?,"0,5,0
 active,"Error carga del menú responsive al abrir el navegador,"0,4,0
 active,"Atajo de teclado para un script ejecutable en ubuntu,"0,3,0
 active,"¿Cómo elevar a una potencia a toda una ecuacion?,"-1,55,2
 active,"Dada una lista de números enteros no negativos y una suma objetivo, encuentre un par de números que sumen a la suma objetivo,"0,3,0
 active,"Guardar elemento DOM como IMG,"0,10,1
-active,"Ideas de como validar fechas y horas agendadas mediante solo input,"0,14,2
+active,"Ideas de como validar fechas y horas agendadas mediante solo input,"0,16,2
 active,"Como puedo evitar Registro Duplicado en MySQL?,"0,18,2
 active,"Realizar busqueda en DataGridView mediante textbox c++,"0,369,1
-active,"¿ForEach no funciona en javscript?,"0,11,1
+active,"¿ForEach no funciona en javscript?,"0,12,1
 active,"Leer una direccion de memoria almacenada en un archivo de texto,"0,8,0
 active,"Operaciones con fechas,"0,40,1
 active,"Almacenar un objeto en un arreglo de string,"0,24,1
@@ -45,14 +47,14 @@ active,"ayuda Servlet envio de parametros,"0,24,2
 active,"Pago con tarjeta en aplicación iOS,"0,7,0
 active,"Error al crear un nuevo proyecto Angular con Angular-Cli,"1,867,2
 active,"Envío de Datos Formulario HTML, PHP, MySQL,"0,30,2
-active,"Error de conexión Mysqli en 000Webhost,"0,333,1
-active,"No encuentra el pattern (Ruta) de servlet en el action de un Form,"0,24,0
+featured,"¿Cómo evitar el acceso aun sitio web externo si no es redireccionado desde mi sitio?,"9,213,2
+featured,"Error de falta de memoria,"1,63,0
 android,"¿Encender Flashlight con google vision?",0,4,0
 android,"Como puedo desactivar la pantalla táctil en un método",0,9,1
 android,"Existe alguna manera de notificarme a través de correo electrónico cuando un usuario nuevo se registra en mi app?",0,2,1
 android,"¿Como hacer una captura de pantalla mediante código? Android Studio",0,1,0
 android,"Cómo llamar a muchas tareas largas en android?",0,7,0
-android,"¿Como puedo mostrar las categorías de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio",0,7,0
+android,"¿Como puedo mostrar las categorías de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio",0,8,0
 android,"¿Como cambiar tamaño de linearlayout con porcentajes en android studio?",0,1,1
 android,"Flutter setState, hay alguna forma de que no reconstruya todo el árbol de Widgets?",0,1,0
 android,"¿Cuales son las mejores librerías para mapas offline en android?",-1,1,0
@@ -97,104 +99,6 @@ android,"¿Como hago un switch de dos botones flotantes que vienen de dos fragme
 android,"Recyclerview con setVisibility GONE no elimina espacio de la fila",1,4,1
 android,"Combobox y picker en Xamarin Forms no cargan al salir de la pagina y entrar de nuevo",0,1,0
 android,"Error al pasar el codigo de una activity a un fragment (recyclerview)",1,2,1
-hot,"Ideas de como validar fechas y horas agendadas mediante solo input,"0,14,2
-hot,"¿ForEach no funciona en javscript?,"0,11,1
-hot,"Como puedo evitar Registro Duplicado en MySQL?,"0,18,2
-hot,"como redondear un jbutton en java?,"0,11,1
-hot,"como filtrar un array que contiene arrays con el valor de un input search [en espera],"0,17,1
-hot,"Multi Tarea en Arduino,"0,12,1
-hot,"Existe alguna manera de notificarme a través de correo electrónico cuando un usuario nuevo se registra en mi app?,"0,24,1
-hot,"Duda con consulta y foreach,"0,15,1
-hot,"Que significan las llaves en una consulta con WHERE id = {$id}?,"2,22,2
-hot,"Dibujar la media en un grafico con matplotlib,"0,13,1
-hot,"No logro mostrar el resultado de 2 consultas SQL unidas,"0,22,0
-hot,"Internet zona muerta! [en espera],"-1,19,0
-hot,"uso correcto de having by,"0,16,0
-hot,"crear un vector de 30 numeros aleatorios, obtener la media, y el número mayor y menor en c,"0,25,1
-hot,"Envío de Datos Formulario HTML, PHP, MySQL,"0,30,2
-hot,"trigger que lance una excepcion que indique que no se pueden crear dos salidas iguales,"-1,11,0
-hot,"como hago para subir una imagen en java? tengo el siguiente codigo,"0,12,0
-hot,"¿@foreach en laravel que vaya de 2 objetos en 2 objetos?,"0,29,1
-hot,"Problemas con dos autoload en PHP,"0,12,0
-hot,"Comprobar dias del 1 al 5 de cada mes,"0,26,2
-hot,"Crear usb live con datos persistentes a través de terminal,"2,14,0
-hot,"Almacenar un objeto en un arreglo de string,"0,24,1
-hot,"Método authenticate ha dejado de funcionar,"0,24,0
-hot,"Dar estilo a un elemento dependiendo del número de radio buttons marcados,"0,13,0
-hot,"Consulta del mayor número de ventas por cada vendedor,"1,29,1
-hot,"¿Como almacenar variable en JavaScript hasta recargar pagina?,"0,32,1
-hot,"¿Por qué mi condicional if no funciona correctamente?,"0,40,1
-hot,"Como arrojar excepciones usando operador ternario en Python,"2,48,2
-hot,"Linkear por medio de clase o metodo archivo css en php,"0,24,1
-hot,"¿Cómo puedo mostrar datos de una cadena con Firebase?,"0,17,1
-hot,"¿Cómo mostrar datos según la categoría de una URL mediante switch case PHP?,"1,24,1
-hot,"Grupo radio con funcion muestra el value=“texto” al seleccionar, con checked=“yes” por defecto tendría que mostrarlo tambien,"0,13,1
-hot,"Como poner disponible los datos del Usuario para todos los métodos de un controlador Laravel,"0,16,1
-hot,"Cómo establecer una relación many-to-many en laravel,"1,32,2
-hot,"¿Como actualizo un bool en un archivo .h?,"0,17,1
-hot,"¿Por qué en una funcion anidada debo retornarla en su función principal?,"2,16,3
-hot,"¿Cómo elevar a una potencia a toda una ecuacion?,"-1,55,2
-hot,"Fallo en el cálculo del Coeficiente de correlación,"0,18,0
-hot,"Cual es la jerarquía (IMPORTANCIA) en un conjunto de if anidados?,"0,17,1
-hot,"Pasar una variable con valor unico a otra clase,"0,16,0
-hot,"Base de Datos en Access direccionar ruta para exportar consultas a excel,"0,38,3
-hot,"(Overloading) - Sobrecargar Operadores en Python,"3,19,1
-hot,"¿Cómo contar los registros de un dato especifico usando sentencias preparadas MySQLi (orientado a objetos)?,"1,20,3
-hot,"Problema con imagen de informe que se corta en reportviewer,"-1,11,0
-hot,"Cómo evitar que se muestre un objeto en un Adapter que lleno a través de una base de datos,"0,30,1
-hot,"Como crear un oyente de teclado solo para la tecla ENTER?,"0,18,1
-hot,"Extraer nada más los 4 primeros números de una cadena PHP,"0,41,3
-hot,"Crear metodos que generalicen la Alta, Baja y Modificacion de varios objetos,"0,18,0
-featured,"¿Cómo evitar el acceso aun sitio web externo si no es redireccionado desde mi sitio?,"9,213,2
-featured,"Error de falta de memoria,"1,63,0
-week,"¿Cómo funcionan estas combinaciones en css?,"4,72,3
-week,"Tamaño de letra en HTML,"4,57,4
-week,"¿Cómo convertir datos en porcentajes y en dolares?,"6,91,4
-week,"¿Cómo pasar un arreglo vacío por ajax en php?,"7,40,3
-week,"No funciona el Bootstrap en Angular CLI v. 6.1.2,"2,57,4
-week,"Ajustar Columnas de 2 tablas HTML,"1,71,5
-week,"Reiniciar ciclo while JavaScript,"1,48,5
-week,"¿Porque se recomienda utilizar métodos getter y setter en TypeScript?,"4,60,4
-week,"¿Cómo insertar datos después de 48 horas?,"4,56,4
-week,"¿Que alternativas tengo para hacer una transicion de un degradado en un botón?,"4,50,3
-week,"En HTML, ¿Cómo puedo adaptar el contenido al ancho de la pantalla?,"2,92,3
-week,"Consulta para relación de tablas en MySQL,"2,86,4
-week,"¿Por qué en un evento jQuery de JavaScript el tiempo de ejecución de la primera instrucción cambia según el resto de las instrucciones?,"5,50,2
-week,"Fecha actual en input html,"2,46,4
-week,"Ayuda con ejercicio en JavaScript,"1,73,2
-week,"No me entra en el IF,"0,51,1
-week,"php - str_replace,"3,65,2
-week,"Imágen con triángulo en CSS,"1,65,2
-week,"¿Cómo convertir una string a int en c++?,"3,38,2
-week,"Puedo formar un WHERE en una variable de @?,"3,61,2
-week,"¿Se pueden usar variables en jQuery?,"3,44,2
-week,"¿Cómo obtener el numero de días de la semana, mes y año actual?,"2,54,3
-week,"Control de horarios con moment js,"1,52,1
-week,"¿Cómo hago para recorrer una variable con jQuery o JavaScript puro?,"2,52,3
-week,"¿Cómo extraer valor en javascript y funcione en Internet Explorer?,"0,38,3
-week,"Como arrojar excepciones usando operador ternario en Python,"2,48,2
-week,"Javascript ¿Cómo puedo comprobar que dos objetos JSON sean iguales?,"2,37,2
-week,"Buscar caracteres consecutivos en una cadena PHP,"2,57,3
-week,"Cómo puedo crear un registro de nuevo usuario más su foto de perfil?,"0,44,3
-week,"¿Cömo cambiar el estilo de un div que se crea dinámicamente?,"1,56,3
-week,"Lista dentro de un for in,"3,33,2
-week,"¿Como paso un json a un diccionario?,"2,52,3
-week,"No me funciona el promedio dentro del for,"3,64,3
-week,"Busqueda de Menor no funciona adecuadamente,"0,49,2
-week,"Exo player al cambiar de orientacion video comienza desde el principio.,"0,49,1
-week,"Validar varios input con una sola funcion,"3,29,2
-week,"Como anidar 'select' independientes?,"3,61,1
-week,"Logica Programacion,"0,60,2
-week,".prop('disabled', true); no funciona en funcion Each JS,"2,28,3
-week,"¿Cómo puedo hacer para ocultar un pequeño mapa de google cuando se ingrese al sitio web desde un celular?,"0,28,4
-week,"Llamar función PHP desde línea de comandos Yii,"2,46,1
-week,"Adaptar imagen a carousel bootstrap,"0,46,1
-week,"Calcular diferencia de horas php,"4,58,1
-week,"Con que librería y como puedo hacer una petición HTTP en C++,"0,35,1
-week,"Error en JAVASCRIPT,"0,27,1
-week,"array_merge dentro de un foreach,"5,34,2
-week,"¿Cómo elevar a una potencia a toda una ecuacion?,"-1,55,2
-week,"Cambiar el contenido de las columnas en DataGridView,"0,33,1
 month,"¿Cómo realizar el efecto de leer mas?,"6,110,5
 month,"String en java, ¿es más eficiente crear o asignar?,"6,104,5
 month,"¿Hay alguna forma de provocar dos cambios pulsando en un único label?,"13,354,2
@@ -243,6 +147,153 @@ month,"java.lang.RuntimeException: Unable to start activity, java.lang.NullPoint
 month,"¿Cómo hacer un bucle en SQL?,"4,54,3
 month,"evaluar multiples variables en una sentencia if [cerrada],"1,88,3
 month,"Mostrar el primer elemento de un array,"2,53,4
+week,"¿Cómo funcionan estas combinaciones en css?,"4,72,3
+week,"Tamaño de letra en HTML,"4,57,4
+week,"¿Cómo convertir datos en porcentajes y en dolares?,"6,91,4
+week,"¿Cómo pasar un arreglo vacío por ajax en php?,"7,40,3
+week,"No funciona el Bootstrap en Angular CLI v. 6.1.2,"2,57,4
+week,"Ajustar Columnas de 2 tablas HTML,"1,71,5
+week,"Reiniciar ciclo while JavaScript,"1,48,5
+week,"¿Porque se recomienda utilizar métodos getter y setter en TypeScript?,"4,60,4
+week,"¿Cómo insertar datos después de 48 horas?,"4,56,4
+week,"¿Que alternativas tengo para hacer una transicion de un degradado en un botón?,"4,50,3
+week,"En HTML, ¿Cómo puedo adaptar el contenido al ancho de la pantalla?,"2,92,3
+week,"Consulta para relación de tablas en MySQL,"2,86,4
+week,"¿Por qué en un evento jQuery de JavaScript el tiempo de ejecución de la primera instrucción cambia según el resto de las instrucciones?,"5,50,2
+week,"Fecha actual en input html,"2,46,4
+week,"Ayuda con ejercicio en JavaScript,"1,73,2
+week,"No me entra en el IF,"0,51,1
+week,"php - str_replace,"3,65,2
+week,"Imágen con triángulo en CSS,"1,65,2
+week,"¿Cómo convertir una string a int en c++?,"3,38,2
+week,"Puedo formar un WHERE en una variable de @?,"3,61,2
+week,"¿Se pueden usar variables en jQuery?,"3,44,2
+week,"¿Cómo obtener el numero de días de la semana, mes y año actual?,"2,54,3
+week,"Control de horarios con moment js,"1,52,1
+week,"¿Cómo hago para recorrer una variable con jQuery o JavaScript puro?,"2,52,3
+week,"¿Cómo extraer valor en javascript y funcione en Internet Explorer?,"0,38,3
+week,"Como arrojar excepciones usando operador ternario en Python,"2,48,2
+week,"Javascript ¿Cómo puedo comprobar que dos objetos JSON sean iguales?,"2,37,2
+week,"Buscar caracteres consecutivos en una cadena PHP,"2,57,3
+week,"Cómo puedo crear un registro de nuevo usuario más su foto de perfil?,"0,44,3
+week,"¿Cömo cambiar el estilo de un div que se crea dinámicamente?,"1,56,3
+week,"Lista dentro de un for in,"3,33,2
+week,"¿Como paso un json a un diccionario?,"2,52,3
+week,"No me funciona el promedio dentro del for,"3,64,3
+week,"Busqueda de Menor no funciona adecuadamente,"0,49,2
+week,"Exo player al cambiar de orientacion video comienza desde el principio.,"0,49,1
+week,"Validar varios input con una sola funcion,"3,29,2
+week,"Como anidar 'select' independientes?,"3,61,1
+week,"Logica Programacion,"0,60,2
+week,".prop('disabled', true); no funciona en funcion Each JS,"2,28,3
+week,"¿Cómo puedo hacer para ocultar un pequeño mapa de google cuando se ingrese al sitio web desde un celular?,"0,28,4
+week,"Llamar función PHP desde línea de comandos Yii,"2,46,1
+week,"Adaptar imagen a carousel bootstrap,"0,46,1
+week,"Calcular diferencia de horas php,"4,58,1
+week,"Con que librería y como puedo hacer una petición HTTP en C++,"0,35,1
+week,"Error en JAVASCRIPT,"0,27,1
+week,"array_merge dentro de un foreach,"5,34,2
+week,"¿Cómo elevar a una potencia a toda una ecuacion?,"-1,55,2
+week,"Cambiar el contenido de las columnas en DataGridView,"0,33,1
+hot,"Ideas de como validar fechas y horas agendadas mediante solo input,"0,16,2
+hot,"¿ForEach no funciona en javscript?,"0,12,1
+hot,"Como puedo evitar Registro Duplicado en MySQL?,"0,18,2
+hot,"como redondear un jbutton en java?,"0,11,1
+hot,"como filtrar un array que contiene arrays con el valor de un input search [en espera],"0,17,1
+hot,"Multi Tarea en Arduino,"0,12,1
+hot,"Existe alguna manera de notificarme a través de correo electrónico cuando un usuario nuevo se registra en mi app?,"0,24,1
+hot,"Duda con consulta y foreach,"0,15,1
+hot,"Que significan las llaves en una consulta con WHERE id = {$id}?,"2,22,2
+hot,"Dibujar la media en un grafico con matplotlib,"0,13,1
+hot,"No logro mostrar el resultado de 2 consultas SQL unidas,"0,22,0
+hot,"Internet zona muerta! [en espera],"-1,19,0
+hot,"uso correcto de having by,"0,16,0
+hot,"crear un vector de 30 numeros aleatorios, obtener la media, y el número mayor y menor en c,"0,25,1
+hot,"Envío de Datos Formulario HTML, PHP, MySQL,"0,30,2
+hot,"trigger que lance una excepcion que indique que no se pueden crear dos salidas iguales,"-1,11,0
+hot,"como hago para subir una imagen en java? tengo el siguiente codigo,"0,12,0
+hot,"¿@foreach en laravel que vaya de 2 objetos en 2 objetos?,"0,29,1
+hot,"Problemas con dos autoload en PHP,"0,12,0
+hot,"Comprobar dias del 1 al 5 de cada mes,"0,26,2
+hot,"Crear usb live con datos persistentes a través de terminal,"2,14,0
+hot,"Almacenar un objeto en un arreglo de string,"0,24,1
+hot,"Método authenticate ha dejado de funcionar,"0,24,0
+hot,"Dar estilo a un elemento dependiendo del número de radio buttons marcados,"0,13,0
+hot,"Consulta del mayor número de ventas por cada vendedor,"1,29,1
+hot,"¿Como almacenar variable en JavaScript hasta recargar pagina?,"0,32,1
+hot,"¿Por qué mi condicional if no funciona correctamente?,"0,40,1
+hot,"Como arrojar excepciones usando operador ternario en Python,"2,48,2
+hot,"Linkear por medio de clase o metodo archivo css en php,"0,24,1
+hot,"¿Cómo puedo mostrar datos de una cadena con Firebase?,"0,17,1
+hot,"¿Cómo mostrar datos según la categoría de una URL mediante switch case PHP?,"1,24,1
+hot,"Grupo radio con funcion muestra el value=“texto” al seleccionar, con checked=“yes” por defecto tendría que mostrarlo tambien,"0,13,1
+hot,"Como poner disponible los datos del Usuario para todos los métodos de un controlador Laravel,"0,16,1
+hot,"Cómo establecer una relación many-to-many en laravel,"1,32,2
+hot,"¿Como actualizo un bool en un archivo .h?,"0,17,1
+hot,"¿Por qué en una funcion anidada debo retornarla en su función principal?,"2,16,3
+hot,"¿Cómo elevar a una potencia a toda una ecuacion?,"-1,55,2
+hot,"Fallo en el cálculo del Coeficiente de correlación,"0,18,0
+hot,"Cual es la jerarquía (IMPORTANCIA) en un conjunto de if anidados?,"0,17,1
+hot,"Pasar una variable con valor unico a otra clase,"0,16,0
+hot,"Base de Datos en Access direccionar ruta para exportar consultas a excel,"0,38,3
+hot,"(Overloading) - Sobrecargar Operadores en Python,"3,19,1
+hot,"¿Cómo contar los registros de un dato especifico usando sentencias preparadas MySQLi (orientado a objetos)?,"1,20,3
+hot,"Problema con imagen de informe que se corta en reportviewer,"-1,11,0
+hot,"Cómo evitar que se muestre un objeto en un Adapter que lleno a través de una base de datos,"0,30,1
+hot,"Como crear un oyente de teclado solo para la tecla ENTER?,"0,18,1
+hot,"Extraer nada más los 4 primeros números de una cadena PHP,"0,41,3
+hot,"Crear metodos que generalicen la Alta, Baja y Modificacion de varios objetos,"0,18,0
+java,"¿Encender Flashlight con google vision?",0,4,0
+java,"como redondear un jbutton en java?",0,1,1
+java,"Como puedo desactivar la pantalla táctil en un método",0,9,1
+java,"Existe alguna manera de notificarme a través de correo electrónico cuando un usuario nuevo se registra en mi app?",0,2,1
+java,"UCanAccess “usuario no tiene privilegios suficientes o objeto no encontrado”",0,3,0
+java,"¿Hacer que una figura siga el mouse pero solo se mueva en círculos, es decir, como un objeto pequeño en órbita con un objeto mas grande JAVA NETBEANS?",0,5,0
+java,"¿Como hacer una captura de pantalla mediante código? Android Studio",0,1,0
+java,"Cómo llamar a muchas tareas largas en android?",0,7,0
+java,"Almacenar un objeto en un arreglo de string",0,2,1
+java,"Crear metodos que generalicen la Alta, Baja y Modificacion de varios objetos",0,1,0
+java,"Como crear un oyente de teclado solo para la tecla ENTER?",0,1,1
+java,"¿Como puedo mostrar las categorías de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio",0,8,0
+java,"¿Como cambiar tamaño de linearlayout con porcentajes en android studio?",0,1,1
+java,"Como identificar valores en un string",0,3,2
+java,"¿Cuales son las mejores librerías para mapas offline en android?",-1,1,0
+java,"Hibernate @ManyToMany dudas",1,9,0
+java,"Cómo evitar que se muestre un objeto en un Adapter que lleno a través de una base de datos",0,3,1
+java,"Mini-Max Sum Hacker Rank",2,3,1
+java,"Primefaces 5 con JSF enviar datos a otra vista desde una tabla",0,1,0
+java,"Forma correcta de usar un Resultmap en myBatis xml",0,4,0
+java,"¿Cómo enviar parámetros a través de clases creadas mediante WSDL generadas con jax-ws?",1,1,2
+java,"Problema con Neatbeans",0,3,0
+java,"Widget funciona en android 6.0.1 pero en otras versiones no",0,3,0
+java,"Cargar JLabel desde MySQL",0,2,1
+java,"Solicitud HTTP POST en java no vuelca la respuesta?",0,3,0
+java,"Problemas con Rutas al crear el JAR",0,2,0
+java,"Para qué sirve Spring? [en espera]",-1,2,0
+java,"Escribir archivo txt con salto de linea",0,2,1
+java,"¿Como cargar datos devueltos con spring mvc en una grid de ExtJs?",0,4,0
+java,"¿Como puedo hacer que al momento de ingresar un elemento a una arreglo en java este primero verifique si se encuentra?",0,1,2
+java,"¿Como puedo hacer un try catch y que me repita la opcion que estoy haciendo?",2,2,1
+java,"¿Saben como mostrar una imagen guardada en la base de datos?",0,3,0
+java,"Exo player al cambiar de orientacion video comienza desde el principio.",0,4,1
+java,"Realizar formato imprimible desde JAVA 8",0,2,0
+java,"Cómo puedo utilizar PHP JavaBridge",2,9,0
+java,"¿porque al usar el nextInt() automaticamente salta de linea en Java?",0,2,1
+java,"Fallo al mostrar listado de datos en Java",2,3,1
+java,"No me funciona el promedio dentro del for",3,6,3
+java,"No me muesta nada la hora de consultar la información en la interfaz de Java",0,4,1
+java,"Descarga fichero jsf 2.2 primefaces",0,2,0
+java,"Cómo generar correctamente archivo en Java (mysql)",1,1,1
+java,"p:selectBooleanButton DENTRO DE p:tab JSF PRIMFACES (me da error, no me sale la acción de pulsar el botón)",0,1,1
+java,"Cambiar el valor por anotación en SpringBoot Json",2,2,2
+java,"Porque al compilar en NetBeans no me devuelve nada?",2,4,1
+java,"Imagen del marcador demasiado grande Google Maps",0,3,1
+java,"¿Donde se guardan los Logs de Java? ¿Como puedo elegir donde?",1,3,1
+java,"Tengo problemas para terminar un ejercicio Maven Java",0,1,0
+java,"Ayuda para importar archivos csv en Java",-1,3,1
+java,"DriverManager.getConnection Dinámicamente",0,2,0
+java,"Error al pasar crear File",0,2,0
+javascript,"Forma correcta de ocultar un <input> en HTML usando javascript",0,3,1
 javascript,"Dada una lista de números enteros no negativos y una suma objetivo, encuentre un par de números que sumen a la suma objetivo",0,3,0
 javascript,"¿ForEach no funciona en javscript?",0,1,1
 javascript,"Ideas de como validar fechas y horas agendadas mediante solo input",0,1,2
@@ -292,8 +343,8 @@ javascript,"¿Como esperar el retorno de una funcion con async-await? (asincroni
 javascript,"Hacer una polylinea con jquery gmaps",0,1,0
 javascript,"Error al actualizar varios clientes con Socket.io",0,1,1
 javascript,"Funcion para concatenar datos de tabla html y jquery",3,2,1
-javascript,"Validar varios input con una sola funcion",3,2,2
-html,"Mostrar input segun privilegios",0,7,0
+html,"Forma correcta de ocultar un <input> en HTML usando javascript",0,3,1
+html,"Mostrar input segun privilegios",0,7,1
 html,"Ideas de como validar fechas y horas agendadas mediante solo input",0,1,2
 html,"No logro mostrar el resultado de 2 consultas SQL unidas",0,2,0
 html,"Mantener el registro de un ComboBox en un formulario de editar",0,1,2
@@ -342,9 +393,8 @@ html,"Adaptar imagen a carousel bootstrap",0,4,1
 html,"Error al llamar a función: Call to undefined function",-1,2,1
 html,"Elemento se borra al ser añadido",0,3,0
 html,"Es correcto “Mezclar” código php con HTML?",1,5,0
-html,"necesito ayuda con una sql que estoy realizando en php",0,3,1
 php,"Error carga del menú responsive al abrir el navegador",0,4,0
-php,"Mostrar input segun privilegios",0,7,0
+php,"Mostrar input segun privilegios",0,7,1
 php,"Ideas de como validar fechas y horas agendadas mediante solo input",0,1,2
 php,"Como puedo evitar Registro Duplicado en MySQL?",0,1,2
 php,"Duda con consulta y foreach",0,1,1
@@ -393,56 +443,106 @@ php,"Mostrar tabla de mysql en php,javascrip",1,2,1
 php,"Reedireccion de pagina con html",1,2,2
 php,"¿como puedo poner un archivo text de sql en php y que me respete los saltos de linea?",0,2,0
 php,"Hoja de Estilos no reaccionan: PHP y CSS3",0,2,1
-java,"¿Encender Flashlight con google vision?",0,4,0
-java,"como redondear un jbutton en java?",0,1,1
-java,"Como puedo desactivar la pantalla táctil en un método",0,9,1
-java,"Existe alguna manera de notificarme a través de correo electrónico cuando un usuario nuevo se registra en mi app?",0,2,1
-java,"UCanAccess “usuario no tiene privilegios suficientes o objeto no encontrado”",0,3,0
-java,"¿Hacer que una figura siga el mouse pero solo se mueva en círculos, es decir, como un objeto pequeño en órbita con un objeto mas grande JAVA NETBEANS?",0,5,0
-java,"¿Como hacer una captura de pantalla mediante código? Android Studio",0,1,0
-java,"Cómo llamar a muchas tareas largas en android?",0,7,0
-java,"Almacenar un objeto en un arreglo de string",0,2,1
-java,"Crear metodos que generalicen la Alta, Baja y Modificacion de varios objetos",0,1,0
-java,"Como crear un oyente de teclado solo para la tecla ENTER?",0,1,1
-java,"¿Como puedo mostrar las categorías de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio",0,7,0
-java,"¿Como cambiar tamaño de linearlayout con porcentajes en android studio?",0,1,1
-java,"Como identificar valores en un string",0,3,2
-java,"¿Cuales son las mejores librerías para mapas offline en android?",-1,1,0
-java,"Hibernate @ManyToMany dudas",1,9,0
-java,"Cómo evitar que se muestre un objeto en un Adapter que lleno a través de una base de datos",0,3,1
-java,"Mini-Max Sum Hacker Rank",2,3,1
-java,"Primefaces 5 con JSF enviar datos a otra vista desde una tabla",0,1,0
-java,"Forma correcta de usar un Resultmap en myBatis xml",0,4,0
-java,"¿Cómo enviar parámetros a través de clases creadas mediante WSDL generadas con jax-ws?",1,1,2
-java,"Problema con Neatbeans",0,3,0
-java,"Widget funciona en android 6.0.1 pero en otras versiones no",0,3,0
-java,"Cargar JLabel desde MySQL",0,2,1
-java,"Solicitud HTTP POST en java no vuelca la respuesta?",0,3,0
-java,"Problemas con Rutas al crear el JAR",0,2,0
-java,"Para qué sirve Spring? [en espera]",-1,2,0
-java,"Escribir archivo txt con salto de linea",0,2,1
-java,"¿Como cargar datos devueltos con spring mvc en una grid de ExtJs?",0,4,0
-java,"¿Como puedo hacer que al momento de ingresar un elemento a una arreglo en java este primero verifique si se encuentra?",0,1,2
-java,"¿Como puedo hacer un try catch y que me repita la opcion que estoy haciendo?",2,2,1
-java,"¿Saben como mostrar una imagen guardada en la base de datos?",0,3,0
-java,"Exo player al cambiar de orientacion video comienza desde el principio.",0,4,1
-java,"Realizar formato imprimible desde JAVA 8",0,2,0
-java,"Cómo puedo utilizar PHP JavaBridge",2,9,0
-java,"¿porque al usar el nextInt() automaticamente salta de linea en Java?",0,2,1
-java,"Fallo al mostrar listado de datos en Java",2,3,1
-java,"No me funciona el promedio dentro del for",3,6,3
-java,"No me muesta nada la hora de consultar la información en la interfaz de Java",0,4,1
-java,"Descarga fichero jsf 2.2 primefaces",0,2,0
-java,"Cómo generar correctamente archivo en Java (mysql)",1,1,1
-java,"p:selectBooleanButton DENTRO DE p:tab JSF PRIMFACES (me da error, no me sale la acción de pulsar el botón)",0,1,1
-java,"Cambiar el valor por anotación en SpringBoot Json",2,2,2
-java,"Porque al compilar en NetBeans no me devuelve nada?",2,4,1
-java,"Imagen del marcador demasiado grande Google Maps",0,3,1
-java,"¿Donde se guardan los Logs de Java? ¿Como puedo elegir donde?",1,3,1
-java,"Tengo problemas para terminar un ejercicio Maven Java",0,1,0
-java,"Ayuda para importar archivos csv en Java",-1,3,1
-java,"DriverManager.getConnection Dinámicamente",0,2,0
-java,"Error al pasar crear File",0,2,0
+c%23,"formulario “interactivo” en c#",0,8,0
+c%23,"Desacoplando AspNet identity",0,8,0
+c%23,"Ayuda con metodo buscar y pagedList C# MVC",0,8,0
+c%23,"problemas con dataset y reportviewer (mysql)",0,6,0
+c%23,"Codigo para tamaño de fuente",0,2,1
+c%23,"¿Cómo colocar imagenes en un select?",0,1,1
+c%23,"Debo consultar un campo en un tabla y ver si existe un valor",1,3,3
+c%23,"Bloquear entrada de teclado y solo perdmitir entrada de lector de codigo de barras",0,4,1
+c%23,"¿Cómo mostrar el progreso de un ProgressBar en Winforms haciendo uso de delegados?",0,2,1
+c%23,"C# ¿Como Convertir string a System.IO.StreamWriter?",2,2,1
+c%23,"Saber si existe un numero dentro de una variable",2,3,2
+c%23,"Usar LIKE o LTRIM - SQL",2,2,3
+c%23,"Alternativas a la hora de materializar un IEnumerable",0,1,0
+c%23,"Fluent NHibernate agregar convencion para nombres de tablas que contienen punto en SQLite",0,1,0
+c%23,"¿Cómo puedo convertir un arreglo JSON en una List <T>?",4,4,3
+c%23,"Busqueda de Menor no funciona adecuadamente",0,4,2
+c%23,"Modificar una celda y guardar su modificacion desde un DataGridView",0,3,3
+c%23,"Metodo que recibe datetime nulleable, cambiar formato a MM/dd/yyyy",0,2,2
+c%23,"Problemas para crear controlador en Web API C#",0,1,0
+c%23,"Consulta ¿Como puedo hacer que un programa en C# lea un txt y por medio de un DatagridView separe por tiempos?",-3,1,0
+c%23,"Sumar contenido de filas de un DataGridView y despegarlo en un Textbox",3,3,1
+c%23,"Como consumir https json con webform asp.net c#?",0,3,1
+c%23,"Cuando leo archivos .csv c# no detecta los valores que contiene",0,4,0
+c%23,"Devolver valor JSon en C#",3,3,1
+c%23,"Barra de progreso .NET Razor C#",0,2,0
+c%23,"Cambiar el contenido de las columnas en DataGridView",0,3,1
+c%23,"Continuar un consecutivo C#",0,4,1
+c%23,"Problema identificando proceso “ Process[] ”",0,4,3
+c%23,"Exportar excel como Hoja de cálculo xml 2003 con epplus",0,1,1
+c%23,"comunicacion entre Visual Studio C # y un PLC",0,2,0
+c%23,"Como ocultar el link de una pagina en asp?",0,3,1
+c%23,"Perceptron de dos entradas",0,2,0
+c%23,"Cambiar columna automaticamente EF",0,2,1
+c%23,"Web service c# para android studio java",0,3,1
+c%23,"No me reconoce la referencia de mi bibilioteca de clases",0,1,0
+c%23,"Crear una clase c# desde un xsd",0,1,0
+c%23,"Xamarin forms Only the original thread that created a view hierarchy can touch its views",0,2,1
+c%23,"Es posible guardar libro de trabajo de excel en vsto c#?",1,1,0
+c%23,"como pasar valor de una variable de .cs a una variable de javascript?",0,3,1
+c%23,"xsd a clase cs de c# star",0,1,0
+c%23,"¿Como puedo filtrar los datos con fechas en C#?",0,3,1
+c%23,"tengo un data grid view que lleno desde un select, quiero capturar 2 columnas mas y guardarlo en una tabla en sql, como podria recorrerlo y guardarlo?",-3,1,0
+c%23,"Leer xls con eeplus",0,1,0
+c%23,"Ejecutar funcion de PHP desde C#",1,5,2
+c%23,"¿Cómo consumir WCF (Webservice de C#) en una aplicación de angular 4?",0,3,0
+c%23,"Error con registros tipo bit",0,2,0
+c%23,"¿Cómo cambiar URL de respuesta en Headers.Location al implementar método POST en Web Api Asp.Net?",0,1,1
+c%23,"Xaf - Activar Appearance desde un botón",0,8,0
+c%23,"Listview no cambia al añadir elementos",0,4,1
+c%23,"Error al Convertir una cadena tipo JSON a Clase en C#",0,4,1
+android-studio,"Como parsear Json con retrofit",0,5,0
+android-studio,"Como puedo desactivar la pantalla táctil en un método",0,9,1
+android-studio,"¿Como hacer una captura de pantalla mediante código? Android Studio",0,1,0
+android-studio,"Solo reproduce una cantidad limitada de sonidos",0,9,0
+android-studio,"¿Como puedo mostrar las categorías de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio",0,8,0
+android-studio,"¿Como cambiar tamaño de linearlayout con porcentajes en android studio?",0,1,1
+android-studio,"¿Cuales son las mejores librerías para mapas offline en android?",-1,1,0
+android-studio,"Failed to resolve: com.google.android.gms: play-services: 15.0.1",0,2,0
+android-studio,"Notificaciones tiempo real chat en android con firebase",0,2,1
+android-studio,"Como trabaja el JobIntentService para Android Oreo y pre Oreo?",0,8,0
+android-studio,"activity se reinicia en la opcion de multipantalla [en espera]",0,7,0
+android-studio,"¿Como puedo mandar el id de x producto al seleccionar el nombre de x producto en el spinner?",1,3,1
+android-studio,"Problema al comparar key y obtener valor en HashMap",0,1,0
+android-studio,"como quitar barra de notificaciones?",3,3,2
+android-studio,"Imagen del marcador demasiado grande Google Maps",0,3,1
+android-studio,"Error en android studio al intentar levantar servicio por BroadcastReceiver android 5.1 lollipop",0,1,0
+android-studio,"Por que si un método usa una interfaz como parámetro, al llamar a dicho método desde otra clase hay que implementar dicha interfaz?",0,5,2
+android-studio,"Problema al cargar imagenes en un Recyclerview con firebase",0,2,0
+android-studio,"Web service c# para android studio java",0,3,1
+android-studio,"Porque android studio no detecta mi dispositivo",1,4,2
+android-studio,"Abrir WhatsApp desde webview android studio",1,3,1
+android-studio,"Por que mi BroadcastReceiver no esta capturando eventos?",0,1,0
+android-studio,"¿como pasar datos de un web service a sqlite?",0,1,0
+android-studio,"Problemas coger datos de diferentes TextView",0,3,0
+android-studio,"¿Porque no me funciona el proyecto visor PDF desarrollado en Android Studio?",0,1,0
+android-studio,"android.view.InflateException: Binary XML file line #9: Erro inflating class fragment Caused by:",0,2,1
+android-studio,"Como Llenar un ListView con un ArrayAdapter en un Fragment",0,3,1
+android-studio,"Intentando generar un apk en Android Studio de una app que incluye CordovaLib migrada de Ionic da error",0,9,0
+android-studio,"¿Como hago un switch de dos botones flotantes que vienen de dos fragments?",0,3,1
+android-studio,"Me aparece el siguiente error en android studio",-2,3,2
+android-studio,"WebService - Problemas AsynTask",0,3,0
+android-studio,"Comprobar si un elemento existe dentro de un Array",0,5,1
+android-studio,"Usar localstorage o appcache en android con webview para una webapp exportada desde Construct2",0,3,0
+android-studio,"Como reconectar un websocket en android?",0,1,1
+android-studio,"¿Cómo puedo abrir un vinculo dentro de la misma aplicación en un WebView incluido en un fragment?",0,1,1
+android-studio,"Su aplicacion de ha detenido WebView",0,2,0
+android-studio,"En una aplicación Android ¿Cómo visualizar un PanoWidget desde un botón con acción on click?",0,1,0
+android-studio,"¿Como cargar el detalle de un sitio en un solo fragment?",0,1,0
+android-studio,"Android LocationManager usando getLastKnownLocation() no se obtiene valor",1,5,2
+android-studio,"ERROR MOSTRANDO DATOS MySQL (ONLINE) EN LISTVIEW",0,2,1
+android-studio,"Como mostrar una imagen cuando pasamos de activity en un ListView",0,3,1
+android-studio,"¿Como hacer filtro desde Edit text a mi recycler view, que carga los datos desde un Array list hasta el card View?",0,1,0
+android-studio,"ACTION_FOUND no obtiene dispositivos",0,7,0
+android-studio,"¿Cómo cambiar el Xfrom y el Xto de una animacion Anroid?",-1,4,0
+android-studio,"Error app:processDebugResources",1,2,0
+android-studio,"Recuperar código APK Android [duplicada]",1,3,0
+android-studio,"Facebook web android studio [en espera]",-1,1,0
+android-studio,"java.lang.String no lo convierte a JSONObject como lo puedo corregir?",0,1,0
+android-studio,"¿Conoceis algun código sencillo para encender la linterna del celular? Android Studio [cerrada]",0,4,1
+android-studio,"Como reciclar imagenes",2,6,0
 python,"Dibujar la media en un grafico con matplotlib",0,1,1
 python,"Método authenticate ha dejado de funcionar",0,2,0
 python,"(Overloading) - Sobrecargar Operadores en Python",3,1,1
@@ -543,103 +643,3 @@ jquery,"Al darle click en el boton desaparece los span",1,2,1
 jquery,"Javascript no lee funciones, o no funciona si no se pone return false",0,3,1
 jquery,"Generar Funcion que calcule cual es el sabado pasado, sabado de la semana en curso y el sabado proximo [cerrada]",0,2,1
 jquery,"Animación queda por detrás del menú",1,3,1
-c%23,"formulario “interactivo” en c#",0,8,0
-c%23,"Desacoplando AspNet identity",0,8,0
-c%23,"Ayuda con metodo buscar y pagedList C# MVC",0,8,0
-c%23,"problemas con dataset y reportviewer (mysql)",0,6,0
-c%23,"Codigo para tamaño de fuente",0,2,1
-c%23,"¿Cómo colocar imagenes en un select?",0,1,1
-c%23,"Debo consultar un campo en un tabla y ver si existe un valor",1,3,3
-c%23,"Bloquear entrada de teclado y solo perdmitir entrada de lector de codigo de barras",0,4,1
-c%23,"¿Cómo mostrar el progreso de un ProgressBar en Winforms haciendo uso de delegados?",0,2,1
-c%23,"C# ¿Como Convertir string a System.IO.StreamWriter?",2,2,1
-c%23,"Saber si existe un numero dentro de una variable",2,3,2
-c%23,"Usar LIKE o LTRIM - SQL",2,2,3
-c%23,"Alternativas a la hora de materializar un IEnumerable",0,1,0
-c%23,"Fluent NHibernate agregar convencion para nombres de tablas que contienen punto en SQLite",0,1,0
-c%23,"¿Cómo puedo convertir un arreglo JSON en una List <T>?",3,4,2
-c%23,"Busqueda de Menor no funciona adecuadamente",0,4,2
-c%23,"Modificar una celda y guardar su modificacion desde un DataGridView",0,3,3
-c%23,"Metodo que recibe datetime nulleable, cambiar formato a MM/dd/yyyy",0,2,2
-c%23,"Problemas para crear controlador en Web API C#",0,1,0
-c%23,"Consulta ¿Como puedo hacer que un programa en C# lea un txt y por medio de un DatagridView separe por tiempos?",-3,1,0
-c%23,"Sumar contenido de filas de un DataGridView y despegarlo en un Textbox",3,3,1
-c%23,"Como consumir https json con webform asp.net c#?",0,3,1
-c%23,"Cuando leo archivos .csv c# no detecta los valores que contiene",0,4,0
-c%23,"Devolver valor JSon en C#",3,3,1
-c%23,"Barra de progreso .NET Razor C#",0,2,0
-c%23,"Cambiar el contenido de las columnas en DataGridView",0,3,1
-c%23,"Continuar un consecutivo C#",0,4,1
-c%23,"Problema identificando proceso “ Process[] ”",0,4,3
-c%23,"Exportar excel como Hoja de cálculo xml 2003 con epplus",0,1,1
-c%23,"comunicacion entre Visual Studio C # y un PLC",0,2,0
-c%23,"Como ocultar el link de una pagina en asp?",0,3,1
-c%23,"Perceptron de dos entradas",0,2,0
-c%23,"Cambiar columna automaticamente EF",0,2,1
-c%23,"Web service c# para android studio java",0,3,1
-c%23,"No me reconoce la referencia de mi bibilioteca de clases",0,1,0
-c%23,"Crear una clase c# desde un xsd",0,1,0
-c%23,"Xamarin forms Only the original thread that created a view hierarchy can touch its views",0,2,1
-c%23,"Es posible guardar libro de trabajo de excel en vsto c#?",1,1,0
-c%23,"como pasar valor de una variable de .cs a una variable de javascript?",0,3,1
-c%23,"xsd a clase cs de c# star",0,1,0
-c%23,"¿Como puedo filtrar los datos con fechas en C#?",0,3,1
-c%23,"tengo un data grid view que lleno desde un select, quiero capturar 2 columnas mas y guardarlo en una tabla en sql, como podria recorrerlo y guardarlo?",-3,1,0
-c%23,"Leer xls con eeplus",0,1,0
-c%23,"Ejecutar funcion de PHP desde C#",1,5,2
-c%23,"¿Cómo consumir WCF (Webservice de C#) en una aplicación de angular 4?",0,3,0
-c%23,"Error con registros tipo bit",0,2,0
-c%23,"¿Cómo cambiar URL de respuesta en Headers.Location al implementar método POST en Web Api Asp.Net?",0,1,1
-c%23,"Xaf - Activar Appearance desde un botón",0,8,0
-c%23,"Listview no cambia al añadir elementos",0,4,1
-c%23,"Error al Convertir una cadena tipo JSON a Clase en C#",0,4,1
-android-studio,"Como parsear Json con retrofit",0,5,0
-android-studio,"Como puedo desactivar la pantalla táctil en un método",0,9,1
-android-studio,"¿Como hacer una captura de pantalla mediante código? Android Studio",0,1,0
-android-studio,"Solo reproduce una cantidad limitada de sonidos",0,9,0
-android-studio,"¿Como puedo mostrar las categorías de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio",0,7,0
-android-studio,"¿Como cambiar tamaño de linearlayout con porcentajes en android studio?",0,1,1
-android-studio,"¿Cuales son las mejores librerías para mapas offline en android?",-1,1,0
-android-studio,"Failed to resolve: com.google.android.gms: play-services: 15.0.1",0,2,0
-android-studio,"Notificaciones tiempo real chat en android con firebase",0,2,1
-android-studio,"Como trabaja el JobIntentService para Android Oreo y pre Oreo?",0,8,0
-android-studio,"activity se reinicia en la opcion de multipantalla [en espera]",0,7,0
-android-studio,"¿Como puedo mandar el id de x producto al seleccionar el nombre de x producto en el spinner?",1,3,1
-android-studio,"Problema al comparar key y obtener valor en HashMap",0,1,0
-android-studio,"como quitar barra de notificaciones?",3,3,2
-android-studio,"Imagen del marcador demasiado grande Google Maps",0,3,1
-android-studio,"Error en android studio al intentar levantar servicio por BroadcastReceiver android 5.1 lollipop",0,1,0
-android-studio,"Por que si un método usa una interfaz como parámetro, al llamar a dicho método desde otra clase hay que implementar dicha interfaz?",0,5,2
-android-studio,"Problema al cargar imagenes en un Recyclerview con firebase",0,2,0
-android-studio,"Web service c# para android studio java",0,3,1
-android-studio,"Porque android studio no detecta mi dispositivo",1,4,2
-android-studio,"Abrir WhatsApp desde webview android studio",1,3,1
-android-studio,"Por que mi BroadcastReceiver no esta capturando eventos?",0,1,0
-android-studio,"¿como pasar datos de un web service a sqlite?",0,1,0
-android-studio,"Problemas coger datos de diferentes TextView",0,3,0
-android-studio,"¿Porque no me funciona el proyecto visor PDF desarrollado en Android Studio?",0,1,0
-android-studio,"android.view.InflateException: Binary XML file line #9: Erro inflating class fragment Caused by:",0,2,1
-android-studio,"Como Llenar un ListView con un ArrayAdapter en un Fragment",0,3,1
-android-studio,"Intentando generar un apk en Android Studio de una app que incluye CordovaLib migrada de Ionic da error",0,9,0
-android-studio,"¿Como hago un switch de dos botones flotantes que vienen de dos fragments?",0,3,1
-android-studio,"Me aparece el siguiente error en android studio",-2,3,2
-android-studio,"WebService - Problemas AsynTask",0,3,0
-android-studio,"Comprobar si un elemento existe dentro de un Array",0,5,1
-android-studio,"Usar localstorage o appcache en android con webview para una webapp exportada desde Construct2",0,3,0
-android-studio,"Como reconectar un websocket en android?",0,1,1
-android-studio,"¿Cómo puedo abrir un vinculo dentro de la misma aplicación en un WebView incluido en un fragment?",0,1,1
-android-studio,"Su aplicacion de ha detenido WebView",0,2,0
-android-studio,"En una aplicación Android ¿Cómo visualizar un PanoWidget desde un botón con acción on click?",0,1,0
-android-studio,"¿Como cargar el detalle de un sitio en un solo fragment?",0,1,0
-android-studio,"Android LocationManager usando getLastKnownLocation() no se obtiene valor",1,5,2
-android-studio,"ERROR MOSTRANDO DATOS MySQL (ONLINE) EN LISTVIEW",0,2,1
-android-studio,"Como mostrar una imagen cuando pasamos de activity en un ListView",0,3,1
-android-studio,"¿Como hacer filtro desde Edit text a mi recycler view, que carga los datos desde un Array list hasta el card View?",0,1,0
-android-studio,"ACTION_FOUND no obtiene dispositivos",0,7,0
-android-studio,"¿Cómo cambiar el Xfrom y el Xto de una animacion Anroid?",-1,4,0
-android-studio,"Error app:processDebugResources",1,2,0
-android-studio,"Recuperar código APK Android [duplicada]",1,3,0
-android-studio,"Facebook web android studio [en espera]",-1,1,0
-android-studio,"java.lang.String no lo convierte a JSONObject como lo puedo corregir?",0,1,0
-android-studio,"¿Conoceis algun código sencillo para encender la linterna del celular? Android Studio [cerrada]",0,4,1
-android-studio,"Como reciclar imagenes",2,6,0
