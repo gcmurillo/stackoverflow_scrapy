@@ -28,8 +28,10 @@ class StackOverFlow(Spider):
 
     tab_urls = [
         "https://es.stackoverflow.com/?tab=active",
-
-
+        "https://es.stackoverflow.com/?tab=featured",
+        "https://es.stackoverflow.com/?tab=hot",
+        "https://es.stackoverflow.com/?tab=week",
+        "https://es.stackoverflow.com/?tab=month"
     ]
 
     start_urls = tab_urls
