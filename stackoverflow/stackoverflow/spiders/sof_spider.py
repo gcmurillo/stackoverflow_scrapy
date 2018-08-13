@@ -13,6 +13,13 @@ class StackoverflowItem(Item):
 
 
 class StackOverFlow(Spider):
+
+    def __init__(self):
+        file = open('results.csv', 'w')
+        cadena = 'tab/language,votes,views,answers\n'
+        file.write(cadena)
+        file.close()
+
     name = "StackOverFlow"
     languages_urls = [
         "https://es.stackoverflow.com/questions/tagged/php",
@@ -34,7 +41,7 @@ class StackOverFlow(Spider):
         "https://es.stackoverflow.com/?tab=month"
     ]
 
-    start_urls = tab_urls
+    start_urls = tab_urls + languages_urls
 
     def get_extracted(value, index=0):
         try:
@@ -44,6 +51,7 @@ class StackOverFlow(Spider):
 
 
     def parse(self, response):
+        file = open('results.csv', 'a+')
         languages = ['php', 'javascript', 'java', 'android', 'html', 'c%23', 'jquery', 'python', 'android-studio']
         language = str(response).split('/')[-1].strip('>')
         if language in languages:
@@ -51,15 +59,18 @@ class StackOverFlow(Spider):
             votos_extract = response.xpath('//span[@class="vote-count-post "]//strong/text()').extract()
             vistas_extract = response.xpath('//div[@class="views "]/text()').extract()
             respuestas_extract = response.xpath('//div[contains(@class, "status")]//strong/text()').extract()
-
             i = 0
             while i < len(tema_extract):
-                print("Lenguage: " + language)
+                '''print("Lenguage: " + language)
                 print('Tema: ' + tema_extract[i])
                 print('Votos: ' + votos_extract[i])
                 print('Vistas: ' + vistas_extract[i])
                 print('Respuestas: ' + respuestas_extract[i])
-                print('\n')
+                print('\n')'''
+                vistas = [s for s in vistas_extract[i].strip() if s.isdigit()][0]
+                cadena = language + ",\"" + tema_extract[i] + "\"," + votos_extract[i] + "," + vistas + "," + respuestas_extract[i] + '\n'
+                print(cadena)
+                file.write(cadena)
                 i += 1
         else:
             tab = str(response).split('=')[-1].strip('>')
@@ -69,10 +80,15 @@ class StackOverFlow(Spider):
             respuestas_extract = response.xpath('//div[contains(@class, "status")]//span/text()').extract()
             i = 0
             while i < len(tema_extract):
+                '''
                 print(tab)
                 print('Tema: ' + tema_extract[i])
                 print('Votos: ' + votos_extract[i])
                 print('Vistas: ' + vistas_extract[i])
                 print('Respuestas: ' + respuestas_extract[i])
-                print('\n')
+                print('\n')'''
+                cadena = tab + ",\"" + tema_extract[i] + ",\"" + votos_extract[i] + "," + vistas_extract[i] + "," + respuestas_extract[i] + '\n'
+                print(cadena)
+                file.write(cadena)
                 i+=1
+        file.close()
