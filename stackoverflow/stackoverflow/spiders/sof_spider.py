@@ -16,7 +16,7 @@ class StackOverFlow(Spider):
 
     def __init__(self):
         file = open('results.csv', 'w')
-        cadena = 'tab/language,votes,views,answers\n'
+        cadena = 'tab/language,question,votes,views,answers\n'
         file.write(cadena)
         file.close()
 
